@@ -1,6 +1,5 @@
 <div style="width: 100%;">
   <a href="https://github.com/MazenOthman32">
-    <img src="YousifAbozid.svg" style="width: 100%;" alt="Yousif Abozid">
   </a>
 </div>
  <title>Centered Title</title>
