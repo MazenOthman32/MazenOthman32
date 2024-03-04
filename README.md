@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=45&duration=1500&pause=50&color=22779D&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Software+Engineer+;Specialist+In+Mobile+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&size=45&duration=2000&pause=300&color=22779D&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Software+Engineer+;Specialist+In+Mobile+Development)](https://git.io/typing-svg)
