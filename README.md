@@ -3,19 +3,7 @@
 	 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=35&color=37629F&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Mazen+Othman;Mobile+Application+Developer" alt="Typing SVG" /></a> 
   </a>
 </div>
- <title>Centered Title</title>
-  <style>
-    body {
-      background-color: #f2f2f2;
-    }
-    h1 {
-      color: #333;
-      font-family: Arial, sans-serif;
-      font-size: 24px;
-      text-align: center;
-      margin-top: 150px;
-    }
-  </style>
+
   
 <!-- Introduction -->
 
