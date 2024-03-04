@@ -62,7 +62,7 @@ or collaborate on something cool! 🤝
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/mazen-othman32/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/MazenOthman32"><img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://www.facebook.com/MazenOthman32"><img width="32px" alt="Facebook" title="Facebook" src="https://imgur.com/Zm64opH"/></a>
 	&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:MazenOthman32@ieee.org"><img width="32px" alt="Mail" title="Mail" src="https://res.cloudinary.com/octopus-labs/image/upload/v1709055639/yahoo.png"/></a>
 </p>
