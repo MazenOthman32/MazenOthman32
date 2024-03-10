@@ -7,7 +7,7 @@
   
 <!-- Introduction -->
 
-👋 Lorem. 💻✨
+👋 Hi There . 💻✨
 
 Lorem 💫👨‍💻
 
