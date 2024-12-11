@@ -70,3 +70,11 @@ Feel free to explore my projects and drop me a message if you want to chat tech 
 <a href="https://github.com/MazenOthman32">
   <img src="https://github-readme-stats.vercel.app/api?username=MazenOthman32&show_icons=true&theme=radical" alt="Mazen's GitHub Stats">
 </a>
+
+<h3 style="color:#f75c7e">🏆 Top Languages and Skills</h3>
+
+<ul>
+  <li><b>C++</b>: <progress value="95" max="100"></progress> 95%</li>
+  <li><b>Dart</b>: <progress value="85" max="100"></progress> 85%</li>
+  <li><b>C#</b>: <progress value="80" max="100"></progress> 80%</li>
+</ul>
