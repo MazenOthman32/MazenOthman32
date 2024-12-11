@@ -16,29 +16,27 @@ Mobile Application Developer specializing in Flutter. Passionate about problem-s
 
 <h3 style="color:#f75c7e">🖥️ Mobile Development 🎨</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: Dart, Java, C++
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Flutter, Firebase
-- <span style="color:#ffd700">**UI Libraries**</span>: Material Design
+- <span style="color:#ffd700">**Languages**</span>: Dart, Java, Kotlin
+- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Flutter , Arduino
 - <span style="color:#ffd700">**State Management**</span>: BLoC, Provider
 
 <h3 style="color:#f75c7e">🍑 Backend & Database 🗃️</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: PHP
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Laravel
-- <span style="color:#ffd700">**Databases**</span>: SQL, Firebase Realtime Database
+- <span style="color:#ffd700">**Languages**</span>: PHP,C#
+- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Laravel, .net
+- <span style="color:#ffd700">**Databases**</span>: SQL, Firebase , SQLite
 - <span style="color:#ffd700">**Authentication & Security**</span>: OAuth, JWT
 
 <h3 style="color:#f75c7e">💻 Programming Languages 👨‍💻</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: Dart, Python, Java, PHP, C++
+- <span style="color:#ffd700">**Languages**</span>: Dart, Python, Java, PHP, C++ , C# , Kotlin
 
 <h3 style="color:#f75c7e">📡 APIs, Libraries & Services 📚</h3>
 
 - <span style="color:#ffd700">**APIs**</span>: Google Maps, REST APIs
 - <span style="color:#ffd700">**HTTP Clients**</span>: Dio, Retrofit
 - <span style="color:#ffd700">**GraphQL Client**</span>: Apollo
-- <span style="color:#ffd700">**Third-party Services**</span>: Cloud Messaging, Analytics
-
+- 
 <h3 style="color:#f75c7e">🚀 Tools & Platforms 🌐</h3>
 
 - <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
