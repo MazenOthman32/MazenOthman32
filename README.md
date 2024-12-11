@@ -1,15 +1,14 @@
 <div style="width: 100%;">
   <a href="https://github.com/MazenOthman32">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=35&duration=2500&color=37629F&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Hi+There+..+%F0%9F%91%8B+;I+am+Mazen+Othman;Mobile+App+Developer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=35&duration=2500&color=37629F&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Hi+There+..+%F0%9F%91%8B+;I+am+Mazen+Othman;Mobile+App+Developer" alt="Typing SVG" /></a>
   </a>
 </div>
 
-  
 <!-- Introduction -->
 
 👋 Hi There . 💻✨
 
-Lorem 💫👨‍💻
+Mobile Application Developer specializing in Flutter. Passionate about problem-solving and technology innovation. 👨‍💻💡
 
 <!-- My tech stack -->
 
@@ -17,45 +16,44 @@ Lorem 💫👨‍💻
 
 <h3 style="color:#f75c7e">🖥️ Mobile Development 🎨</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: Lorem, Lorem, Lorem,
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Lorem,
-- <span style="color:#ffd700">**UI Libraries**</span>: Lorem
-- <span style="color:#ffd700">**State Management**</span>: Lorem
+- <span style="color:#ffd700">**Languages**</span>: Dart, Java, C++
+- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Flutter, Firebase
+- <span style="color:#ffd700">**UI Libraries**</span>: Material Design
+- <span style="color:#ffd700">**State Management**</span>: BLoC, Provider
 
 <h3 style="color:#f75c7e">🍑 Backend & Database 🗃️</h3>
 
-- <span style="color:#ffd700">**Languages**</span>:  Lorem
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Lorem
-- <span style="color:#ffd700">**Databases**</span>: Lorem
-- <span style="color:#ffd700">**Authentication & Security**</span>: Lorem
+- <span style="color:#ffd700">**Languages**</span>: PHP
+- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Laravel
+- <span style="color:#ffd700">**Databases**</span>: SQL, Firebase Realtime Database
+- <span style="color:#ffd700">**Authentication & Security**</span>: OAuth, JWT
 
 <h3 style="color:#f75c7e">💻 Programming Languages 👨‍💻</h3>
 
-- <span style="color:#ffd700">**Languages**</span>: Lorem
+- <span style="color:#ffd700">**Languages**</span>: Dart, Python, Java, PHP, C++
 
 <h3 style="color:#f75c7e">📡 APIs, Libraries & Services 📚</h3>
 
-- <span style="color:#ffd700">**APIs**</span>: Lorem
-- <span style="color:#ffd700">**HTTP Clients**</span>: Lorem
-- <span style="color:#ffd700">**GraphQL Client**</span>: Lorem
-- <span style="color:#ffd700">**Third-party Services**</span>: Lorem
+- <span style="color:#ffd700">**APIs**</span>: Google Maps, REST APIs
+- <span style="color:#ffd700">**HTTP Clients**</span>: Dio, Retrofit
+- <span style="color:#ffd700">**GraphQL Client**</span>: Apollo
+- <span style="color:#ffd700">**Third-party Services**</span>: Cloud Messaging, Analytics
 
-<h3 style="color:#f75c7e">🚀 Lorem 🌐</h3>
+<h3 style="color:#f75c7e">🚀 Tools & Platforms 🌐</h3>
 
 - <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
-- <span style="color:#ffd700">**Hosting Platforms**</span>: Lorem
-- <span style="color:#ffd700">**CI/CD**</span>: Lorem
+- <span style="color:#ffd700">**Hosting Platforms**</span>: Firebase, Heroku
+- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions
 
 <h3 style="color:#f75c7e">🧪 Testing ✅</h3>
 
-- <span style="color:#ffd700">**Testing Frameworks**</span>: Lorem
+- <span style="color:#ffd700">**Testing Frameworks**</span>: Mockito, Flutter Test
 
-<!-- Conatct me -->
+<!-- Contact me -->
 
 <h2 style="color:#f75c7e">📱 Let's Connect! 💬</h2>
 
-Feel free to explore my projects and drop me a message if you want to chat tech
-or collaborate on something cool! 🤝
+Feel free to explore my projects and drop me a message if you want to chat tech or collaborate on something cool! 🤝
 
 <!-- Social icons section -->
 <p align="center">
@@ -69,7 +67,6 @@ or collaborate on something cool! 🤝
 
 <h2 style="color:#f75c7e">🐙 My GitHub Stats 🐙</h2>
 
-
-<a href="https://github.com/YousifAbozid">
-  <img src="https://github.com/MazenOthman32/MazenOthman32/blob/main/View.md" alt="Top Languages">
+<a href="https://github.com/MazenOthman32">
+  <img src="https://github-readme-stats.vercel.app/api?username=MazenOthman32&show_icons=true&theme=radical" alt="Mazen's GitHub Stats">
 </a>
