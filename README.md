@@ -78,3 +78,11 @@ Feel free to explore my projects and drop me a message if you want to chat tech 
   <li><b>Dart</b>: <progress value="85" max="100"></progress> 85%</li>
   <li><b>C#</b>: <progress value="80" max="100"></progress> 80%</li>
 </ul>
+
+<h2 style="color:#f75c7e">🏅 My Codeforces Profile</h2>
+
+<div style="text-align: center;">
+  <a href="https://codeforces.com/profile/Mazen_Othman" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api?username=Mazen_Othman&theme=dark" alt="Mazen's Codeforces Stats" />
+  </a>
+</div>
