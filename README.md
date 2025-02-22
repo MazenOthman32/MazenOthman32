@@ -69,6 +69,7 @@ Feel free to explore my projects and drop me a message if you want to chat tech 
   <img src="https://github-readme-stats.vercel.app/api?username=MazenOthman32&show_icons=true&theme=radical" alt="Mazen's GitHub Stats">
 </a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenOthman32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <h3 style="color:#f75c7e">🏆 Top Languages and Skills</h3>
 
 <ul>
