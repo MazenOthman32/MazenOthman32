@@ -70,18 +70,3 @@ Feel free to explore my projects and drop me a message if you want to chat tech 
 </a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenOthman32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<h3 style="color:#f75c7e">🏆 Top Languages and Skills</h3>
-
-<ul>
-  <li><b>C++</b>: <progress value="95" max="100"></progress> 95%</li>
-  <li><b>Dart</b>: <progress value="85" max="100"></progress> 85%</li>
-  <li><b>C#</b>: <progress value="80" max="100"></progress> 80%</li>
-</ul>
-
-<h2 style="color:#f75c7e">🏅 My Codeforces Profile</h2>
-
-<div style="text-align: center;">
-  <a href="https://codeforces.com/profile/Mazen_Othman" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api?username=Mazen_Othman&theme=dark" alt="Mazen's Codeforces Stats" />
-  </a>
-</div>
