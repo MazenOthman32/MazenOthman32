@@ -111,10 +111,11 @@ I am a Software Engineer specializing in mobile app development with expertise i
 
 Feel free to explore my projects and reach out for collaboration! 🚀
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=github)](https://mazenothman32.github.io/My-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mazen-othman32/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MazenOthman32)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/MazenOthman32)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/Mazen_Othman)
-
+---
 📩 **Email:** [MazenOthman320@gmail.com](mailto:MazenOthman320@gmail.com)
 
 ---
