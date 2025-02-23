@@ -23,6 +23,13 @@ I am a Software Engineer specializing in mobile app development with expertise i
 - **Design Patterns:** MVVM, Clean Architecture
 - **Google Services:** Google Maps, Firebase
 
+### 🔧 Embedded Systems & PCB Design 🛠️  
+- **Microcontrollers:** ESP32, STM32, AVR  
+- **Development Tools:** Arduino IDE, PlatformIO, Keil  
+- **Communication Protocols:** UART, I2C, SPI, MQTT  
+- **PCB Design:** KiCad, Altium Designer, EasyEDA  
+- **IoT Platforms:** Google Firebase, AWS IoT
+
 ### 🍑 Backend & Database 🗃️
 
 - **Languages:** PHP, C#
@@ -84,7 +91,7 @@ I am a Software Engineer specializing in mobile app development with expertise i
 - **Emergency Alerts & Location Sharing**: Sends alerts & user location to emergency contacts.
 - **AI Chatbot & Health Reports**: Users receive insights & support.
 
-[🔗 Project Repo](https://github.com/MazenOthman32)
+[🔗 Project Repo](https://github.com/MazenOthman32/Glucor)
 
 ### **Amina**
 🍼 **An app for hiring babysitters or booking home nurseries for children.**  
@@ -112,7 +119,6 @@ Feel free to explore my projects and reach out for collaboration! 🚀
 
 ---
 
-🚀 **"Building apps, solving problems, and making an impact one line of code at a time."** 👨‍💻🔥
 <!-- GitHub stats -->
 
 <h2 style="color:#f75c7e">🐙 My GitHub Stats 🐙</h2>
@@ -123,3 +129,6 @@ Feel free to explore my projects and reach out for collaboration! 🚀
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenOthman32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+🚀 **"Building apps, solving problems, and making an impact one line of code at a time."** 👨‍💻🔥
