@@ -6,61 +6,113 @@
 
 <!-- Introduction -->
 
-👋 Hi There . 💻✨
+# 👋 Hi There! 💻✨
 
-Mobile Application Developer specializing in Flutter. Passionate about problem-solving and technology innovation. 👨‍💻💡
+## Mobile Application Developer | Competitive Programmer | Tech Enthusiast 🚀
 
-<!-- My tech stack -->
+I am a Software Engineer specializing in mobile app development with expertise in **Flutter**, **clean architecture**, and **scalable software solutions**. I am also a **nationally ranked competitive programmer**, excelling in **ECPC, IEEEXtreme**, and various coding competitions. Passionate about innovation, problem-solving, and impactful projects! 🌍✨
 
-<h2 style="color:#f75c7e">💡 My Tech Stack 🌟</h2>
+---
 
-<h3 style="color:#f75c7e">🖥️ Mobile Development 🎨</h3>
+## 💡 My Tech Stack 🌟
 
-- <span style="color:#ffd700">**Languages**</span>: Dart, Java, Kotlin
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Flutter , Arduino
-- <span style="color:#ffd700">**State Management**</span>: BLoC, Provider
+### 🖥️ Mobile Development 🎨
 
-<h3 style="color:#f75c7e">🍑 Backend & Database 🗃️</h3>
+- **Frameworks/Libraries:** Flutter, Arduino
+- **State Management:** BLoC, Provider
+- **Design Patterns:** MVVM, Clean Architecture
+- **Google Services:** Google Maps, Firebase
 
-- <span style="color:#ffd700">**Languages**</span>: PHP,C#
-- <span style="color:#ffd700">**Frameworks/Libraries**</span>: Laravel, .net
-- <span style="color:#ffd700">**Databases**</span>: SQL, Firebase , SQLite
-- <span style="color:#ffd700">**Authentication & Security**</span>: OAuth, JWT
+### 🍑 Backend & Database 🗃️
 
-<h3 style="color:#f75c7e">💻 Programming Languages 👨‍💻</h3>
+- **Languages:** PHP, C#
+- **Frameworks:** Laravel, .NET
+- **Databases:** Firebase, SQLite, MySQL
+- **Authentication & Security:** OAuth, JWT
 
-- <span style="color:#ffd700">**Languages**</span>: Dart, Python, Java, PHP, C++ , C# , Kotlin
+### 💻 Programming Languages 👨‍💻
 
-<h3 style="color:#f75c7e">📡 APIs, Libraries & Services 📚</h3>
+- **Languages:** C++, Dart, Python, Java, PHP, C#, Kotlin
 
-- <span style="color:#ffd700">**APIs**</span>: Google Maps, REST APIs
-- <span style="color:#ffd700">**HTTP Clients**</span>: Dio, Retrofit
-- <span style="color:#ffd700">**GraphQL Client**</span>: Apollo
-- 
-<h3 style="color:#f75c7e">🚀 Tools & Platforms 🌐</h3>
+### 📡 APIs, Libraries & Services 📚
 
-- <span style="color:#ffd700">**Version Control**</span>: Git, GitHub
-- <span style="color:#ffd700">**Hosting Platforms**</span>: Firebase, Heroku
-- <span style="color:#ffd700">**CI/CD**</span>: GitHub Actions
+- **APIs:** Google Maps, REST APIs
+- **HTTP Clients:** Dio, Retrofit
+- **GraphQL Client:** Apollo
 
-<h3 style="color:#f75c7e">🧪 Testing ✅</h3>
+### 🚀 Tools & Platforms 🌐
 
-- <span style="color:#ffd700">**Testing Frameworks**</span>: Mockito, Flutter Test
+- **Version Control:** Git, GitHub
+- **Hosting Platforms:** Firebase, Heroku
+- **CI/CD:** GitHub Actions, Docker
 
-<!-- Contact me -->
+### 🧪 Testing ✅
 
-<h2 style="color:#f75c7e">📱 Let's Connect! 💬</h2>
+- **Testing Frameworks:** Mockito, Flutter Test
+- **Debugging Tools:** WebSockets, Retrofit Logger
 
-Feel free to explore my projects and drop me a message if you want to chat tech or collaborate on something cool! 🤝
+---
 
-<!-- Social icons section -->
-<p align="center">
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/mazen-othman32/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+## 🏆 Achievements & Competitions 🎖️
 
-</p>
+### **🏅 Competitive Programming**
+- **ICPC (International Collegiate Programming Contest):** First place in university; qualified for Egyptian Finals 3 times.
+- **Egyptian Collegiate Programming Contest (ECPC):** Ranked among top competitors.
+- **IEEEXtreme Global Level:**  
+  - **2022 (16.0 Edition):** 31st in Egypt, 971st globally (out of 6000+ teams).  
+  - **2023 (17.0 Edition):** 52nd in Egypt, 1062nd globally.  
+  - **Best Ambassador Award in Egypt** for IEEEXtreme 17.0.
 
+### **🏆 Hackathons & Tech Competitions**
+- **Google Solution Challenge (GDG):**  
+  - Top 100 projects globally.  
+  - Best project in the **Middle East**.
+- **Geniuses Competition (Ministry of Higher Education):**  
+  - **1st Place in Egypt** for Mobile App Development.
+
+---
+
+## 🔥 Notable Projects 📱
+
+### **Non-Invasive Glucose Monitoring System (Graduation Project)**
+🚑 **An IoT medical system to monitor blood glucose levels non-invasively.**  
+**Tech Stack:** Flutter, Firebase, Google Maps API, PCB design, Sensor Integration  
+
+**Key Features:**
+- **Custom Medical Device**: Designed a non-invasive glucose monitoring device.
+- **Real-Time Monitoring**: Mobile app processes and visualizes glucose readings.
+- **Emergency Alerts & Location Sharing**: Sends alerts & user location to emergency contacts.
+- **AI Chatbot & Health Reports**: Users receive insights & support.
+
+[🔗 Project Repo](https://github.com/MazenOthman32)
+
+### **Amina**
+🍼 **An app for hiring babysitters or booking home nurseries for children.**  
+**Tech Stack:** Flutter, Firebase, Google Maps API  
+
+**Key Features:**
+- **Dual App System:** Separate apps for users and service providers.
+- **MVVM Architecture & Provider:** Ensuring scalability and clean code.
+- **Google Maps Integration:** Location-based features like nursery locations & tracking.
+- **Localization Support:** Multi-language support for a diverse user base.
+
+[🔗 Project Repo](https://github.com/MazenOthman32/Aminah)
+
+---
+
+## 📱 Let's Connect! 💬
+
+Feel free to explore my projects and reach out for collaboration! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mazen-othman32/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/MazenOthman32)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/Mazen_Othman)
+
+📩 **Email:** [MazenOthman320@gmail.com](mailto:MazenOthman320@gmail.com)
+
+---
+
+🚀 **"Building apps, solving problems, and making an impact one line of code at a time."** 👨‍💻🔥
 <!-- GitHub stats -->
 
 <h2 style="color:#f75c7e">🐙 My GitHub Stats 🐙</h2>
@@ -70,3 +122,4 @@ Feel free to explore my projects and drop me a message if you want to chat tech 
 </a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenOthman32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
