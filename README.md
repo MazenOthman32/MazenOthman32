@@ -18,7 +18,7 @@ I am a Software Engineer specializing in mobile app development with expertise i
 
 ### 🖥️ Mobile Development 🎨
 
-- **Frameworks/Libraries:** Flutter, Arduino
+- **Frameworks/Libraries:** Flutter
 - **State Management:** BLoC, Provider
 - **Design Patterns:** MVVM, Clean Architecture
 - **Google Services:** Google Maps, Firebase
@@ -30,21 +30,14 @@ I am a Software Engineer specializing in mobile app development with expertise i
 - **PCB Design:** KiCad, Altium Designer, EasyEDA  
 - **IoT Platforms:** Google Firebase, AWS IoT
 
-### 🍑 Backend & Database 🗃️
-
-- **Languages:** PHP, C#
-- **Frameworks:** Laravel, .NET
-- **Databases:** Firebase, SQLite, MySQL
-- **Authentication & Security:** OAuth, JWT
-
 ### 💻 Programming Languages 👨‍💻
 
-- **Languages:** C++, Dart, Python, Java, PHP, C#, Kotlin
+- **Languages:** C++, Dart, Python, Java, Kotlin
 
 ### 📡 APIs, Libraries & Services 📚
 
 - **APIs:** Google Maps, REST APIs
-- **HTTP Clients:** Dio, Retrofit
+- **HTTP Clients:** Dio, Retrofit, HTTP
 - **GraphQL Client:** Apollo
 
 ### 🚀 Tools & Platforms 🌐
