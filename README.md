@@ -72,34 +72,6 @@ I am a Software Engineer specializing in mobile app development with expertise i
 
 ---
 
-## 🔥 Notable Projects 📱
-
-### **Non-Invasive Glucose Monitoring System (Graduation Project)**
-🚑 **An IoT medical system to monitor blood glucose levels non-invasively.**  
-**Tech Stack:** Flutter, Firebase, Google Maps API, PCB design, Sensor Integration  
-
-**Key Features:**
-- **Custom Medical Device**: Designed a non-invasive glucose monitoring device.
-- **Real-Time Monitoring**: Mobile app processes and visualizes glucose readings.
-- **Emergency Alerts & Location Sharing**: Sends alerts & user location to emergency contacts.
-- **AI Chatbot & Health Reports**: Users receive insights & support.
-
-[🔗 Project Repo](https://github.com/MazenOthman32/Glucor)
-
-### **Amina**
-🍼 **An app for hiring babysitters or booking home nurseries for children.**  
-**Tech Stack:** Flutter, Firebase, Google Maps API  
-
-**Key Features:**
-- **Dual App System:** Separate apps for users and service providers.
-- **MVVM Architecture & Provider:** Ensuring scalability and clean code.
-- **Google Maps Integration:** Location-based features like nursery locations & tracking.
-- **Localization Support:** Multi-language support for a diverse user base.
-
-[🔗 Project Repo](https://github.com/MazenOthman32/Aminah)
-
----
-
 ## 📱 Let's Connect! 💬
 
 Feel free to explore my projects and reach out for collaboration! 🚀
