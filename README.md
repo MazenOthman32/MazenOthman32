@@ -1,100 +1,148 @@
-<div style="width: 100%;">
-  <a href="https://github.com/MazenOthman32">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Madimi+One&size=35&duration=2500&color=37629F&center=true&vCenter=true&multiline=true&random=false&width=800&height=150&lines=Hi+There+..+%F0%9F%91%8B+;I+am+Mazen+Othman;Mobile+App+Developer" alt="Typing SVG" /></a>
-  </a>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Mazen+Othman;Software+Engineer;Mobile+Systems+Architect;Flutter+%7C+Android+%7C+Cross-Platform;Problem+Solver+%7C+Competitive+Programmer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MazenOthman32&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
-<!-- Introduction -->
+---
 
-# 👋 Hi There! 💻✨
+# 👨‍💻 About Me
 
-## Mobile Application Developer | Competitive Programmer | Tech Enthusiast 🚀
+I am a **Software Engineer** specializing in designing and building scalable mobile systems.
 
-I am a Software Engineer specializing in mobile app development with expertise in **Flutter**, **clean architecture**, and **scalable software solutions**. I am also a **nationally ranked competitive programmer**, excelling in **ECPC, IEEEXtreme**, and various coding competitions. Passionate about innovation, problem-solving, and impactful projects! 🌍✨
+I don't just build apps — I engineer systems.
+
+💡 Strong foundation in:
+- Software Architecture
+- Clean Code & SOLID Principles
+- Real-Time Systems
+- API Design & Integration
+- Performance Optimization
+- Problem Solving & Algorithms
+
+📱 I can work across different mobile stacks:
+- Flutter
+- Native Android (Kotlin / Java)
+- Cross-platform solutions
+- Backend-integrated mobile systems
+- IoT-connected applications
 
 ---
 
-## 💡 My Tech Stack 🌟
+# 🧠 Engineering Mindset
 
-### 🖥️ Mobile Development 🎨
-
-- **Frameworks/Libraries:** Flutter
-- **State Management:** BLoC, Provider
-- **Design Patterns:** MVVM, Clean Architecture
-- **Google Services:** Google Maps, Firebase
-
-### 🔧 Embedded Systems & PCB Design 🛠️  
-- **Microcontrollers:** ESP32, STM32, AVR  
-- **Development Tools:** Arduino IDE, PlatformIO, Keil  
-- **Communication Protocols:** UART, I2C, SPI, MQTT  
-- **PCB Design:** KiCad, Altium Designer, EasyEDA  
-- **IoT Platforms:** Google Firebase, AWS IoT
-
-### 💻 Programming Languages 👨‍💻
-
-- **Languages:** C++, Dart, Python, Java, Kotlin
-
-### 📡 APIs, Libraries & Services 📚
-
-- **APIs:** Google Maps, REST APIs
-- **HTTP Clients:** Dio, Retrofit, HTTP
-- **GraphQL Client:** Apollo
-
-### 🚀 Tools & Platforms 🌐
-
-- **Version Control:** Git, GitHub
-- **Hosting Platforms:** Firebase, Heroku
-- **CI/CD:** GitHub Actions, Docker
-
-### 🧪 Testing ✅
-
-- **Testing Frameworks:** Mockito, Flutter Test
-- **Debugging Tools:** WebSockets, Retrofit Logger
+- System thinking before UI thinking
+- Architecture before implementation
+- Performance before release
+- Scalability before shortcuts
 
 ---
 
-## 🏆 Achievements & Competitions 🎖️
+# 🚀 Production Experience
 
-### **🏅 Competitive Programming**
-- **ICPC (International Collegiate Programming Contest):** First place in university; qualified for Egyptian Finals 3 times.
-- **Egyptian Collegiate Programming Contest (ECPC):** Ranked among top competitors.
-- **IEEEXtreme Global Level:**  
-  - **2022 (16.0 Edition):** 31st in Egypt, 971st globally (out of 6000+ teams).  
-  - **2023 (17.0 Edition):** 52nd in Egypt, 1062nd globally.  
-  - **Best Ambassador Award in Egypt** for IEEEXtreme 17.0.
+### Mobile Application Developer @ e& CX Solution
+- API integrations
+- Performance optimization
+- App store rating improvement
+- Cross-team collaboration
 
-### **🏆 Hackathons & Tech Competitions**
-- **Google Solution Challenge (GDG):**  
-  - Top 100 projects globally.  
-  - Best project in the **Middle East**.
-- **Geniuses Competition (Ministry of Higher Education):**  
-  - **1st Place in Egypt** for Mobile App Development.
+### Flutter Developer – Ride Booking System @ Diz 
+- Real-time tracking
+- Payment flows
+- Push notifications
+- State management at scale
 
----
-
-## 📱 Let's Connect! 💬
-
-Feel free to explore my projects and reach out for collaboration! 🚀
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=github)](https://mazenothman32.github.io/My-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/mazen-othman32/)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/MazenOthman32)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-orange?logo=codeforces)](https://codeforces.com/profile/Mazen_Othman)
----
-📩 **Email:** [MazenOthman320@gmail.com](mailto:MazenOthman320@gmail.com)
+### Flutter Developer – Booking Platform (Saudi Market) 
+- Dual app architecture
+- Maps & payments integration
+- Localization
+- Secure communication
 
 ---
 
-<!-- GitHub stats -->
+# 🩺 Highlight Project – Glucor
 
-<h2 style="color:#f75c7e">🐙 My GitHub Stats 🐙</h2>
+IoT-based Non-Invasive Glucose Monitoring System.
 
-<a href="https://github.com/MazenOthman32">
-  <img src="https://github-readme-stats.vercel.app/api?username=MazenOthman32&show_icons=true&theme=radical" alt="Mazen's GitHub Stats">
-</a>
+- Real-time monitoring
+- Emergency alerts & location sharing
+- AI chatbot support
+- Firebase integration
+- Google Maps API
+- Clean Architecture implementation
+- Printed Circuit Board Design
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenOthman32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> Medical-grade logic (own Algorithm) combined with scalable mobile engineering.
 
 ---
 
-🚀 **"Building apps, solving problems, and making an impact one line of code at a time."** 👨‍💻🔥
+# 🛠 Tech Stack
+
+
+
+### 🚀 Core Mobile Stack & Tools
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,js,cpp,python,react,androidstudio,firebase,sqlite,git,github,gitlab,bitbucket,docker,arduino,postman,vscode&perline=10" />
+
+<br/>
+
+### ⚙️ Engineering & Architecture
+<img src="https://img.shields.io/badge/Bloc-000000?style=flat-square&logo=bloc&logoColor=white" /> <img src="https://img.shields.io/badge/Cubit-40D1F5?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Provider-0175C2?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=flat-square&logo=clean-code&logoColor=white" /> <img src="https://img.shields.io/badge/MVVM-FF5722?style=flat-square&logo=architecture&logoColor=white" /> <img src="https://img.shields.io/badge/SOLID-2196F3?style=flat-square&logo=design&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Retrofit-6DB33F?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Dio-0175C2?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Hive-FFAB00?style=flat-square&logo=hive&logoColor=white" /> <img src="https://img.shields.io/badge/Secure_Storage-FF5722?style=flat-square&logo=security&logoColor=white" />
+
+<br/>
+
+### 🧠 Specialized Knowledge
+<img src="https://img.shields.io/badge/Design_Patterns-Singleton--Factory--Observer--Repository--DI-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Testing-Unit--Widget--Integration-success?style=flat-square" /> <img src="https://img.shields.io/badge/Advanced-KMP--Arduino--Responsive_UI-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/Storage-Shared_Prefs--Offline_Caching-grey?style=flat-square" />
+
+
+---
+
+# 🏆 Competitive Programming
+
+- **ICPC – Qualified Egyptian Finals (3x)**
+- **ECPC Ranked Competitor**
+- **IEEEXtreme 16.0 – 31st in Egypt**
+- **IEEEXtreme 17.0 – 52nd in Egypt**
+- **Best IEEEXtreme Ambassador Award (Egypt)**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MazenOthman32&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=MazenOthman32&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MazenOthman32&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=github)](https://mazenothman32.github.io/My-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mazen%20Othman-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mazen-othman32/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Mazen_Othman-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Mazen_Othman)
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
